@@ -1,3 +1,37 @@
+# Table of Contents
+- [Introduction](#Introduction)
+- [Skin type](##Skin\ type)
+- [Cause of skin type](##Cause\ of\ skin\ type)
+- [Skin requirements](##Skin\ requirements)
+- [Acid mantle](##Acid\ mantle)
+- [Skincare routine](##Skincare\ routine)
+- [Skincare product ingredients](##Skincare\ product\ ingredients)
+- [Patch testing](##Patch\ testing)
+- [Skincare budget](##Skincare\ budget)
+- [Face cleansers](##Face\ cleansers)
+- [Toners](##Toners)
+- [Exfoliators](##Exfoliators)
+- [Serums](##Serums)
+- [Moisturizers](##Moisturizers)
+- [Oils](##Oils)
+- [Sunscreens](##Sunscreens)
+- [Face masks](##Face\ masks)
+- [Acne](##Acne)
+- [Acne triggers](##Acne\ triggers)
+- [Fungal acne](##Fungal\ acne)
+- [Severe skin issues](##Severe\ skin\ issues)
+- [Scars](##Scars)
+- [Wrinkles](##Wrinkles)
+- [Minor skin issues](##Minor\ skin\ issues)
+- [Eye care](##Eye\ care)
+- [Lip care](##Lip\ care)
+- [Body care](##Body\ care)
+- [Hair removal](##Hair\ removal)
+- [Diet](##Diet)
+- [Exercise](##Exercise)
+- [Final thoughts](##Final\ thoughts)
+
+
 ## Introduction
 This guide should give a general idea of importance of skincare and many considerations you should take into account. The main goal of skincare is to improve the appearance of your skin and skin health in general, but the journey to this goal is always tricky and usually requires a "trial and error" approach. 
 
