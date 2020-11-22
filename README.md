@@ -1,38 +1,38 @@
-## Table of Contents
+# Table of Contents
 - [Introduction](#Introduction)
-- [Skin type](##Skin-type)
-- [Cause of skin type](##Cause-of-skin-type)
-- [Skin requirements](##Skin-requirements)
-- [Acid mantle](##Acid-mantle)
-- [Skincare routine](##Skincare-routine)
-- [Skincare product ingredients](##Skincare-product-ingredients)
-- [Patch testing](##Patch-testing)
-- [Skincare budget](##Skincare-budget)
-- [Face cleansers](##Face-cleansers)
-- [Toners](##Toners)
-- [Exfoliators](##Exfoliators)
-- [Serums](##Serums)
-- [Moisturizers](##Moisturizers)
-- [Oils](##Oils)
-- [Sunscreens](##Sunscreens)
-- [Face masks](##Face-masks)
-- [Acne](##Acne)
-- [Acne triggers](##Acne-triggers)
-- [Fungal acne](##Fungal-acne)
-- [Severe skin issues](##Severe-skin-issues)
-- [Scars](##Scars)
-- [Wrinkles](##Wrinkles)
-- [Minor skin issues](##Minor-skin-issues)
-- [Eye care](##Eye-care)
-- [Lip care](##Lip-care)
-- [Body care](##Body-care)
-- [Hair removal](##Hair-removal)
-- [Diet](##Diet)
-- [Exercise](##Exercise)
-- [Final thoughts](##Final-thoughts)
+- [Skin type](#Skin-type)
+- [Cause of skin type](#Cause-of-skin-type)
+- [Skin requirements](#Skin-requirements)
+- [Acid mantle](#Acid-mantle)
+- [Skincare routine](#Skincare-routine)
+- [Skincare product ingredients](#Skincare-product-ingredients)
+- [Patch testing](#Patch-testing)
+- [Skincare budget](#Skincare-budget)
+- [Face cleansers](#Face-cleansers)
+- [Toners](#Toners)
+- [Exfoliators](#Exfoliators)
+- [Serums](#Serums)
+- [Moisturizers](#Moisturizers)
+- [Oils](#Oils)
+- [Sunscreens](#Sunscreens)
+- [Face masks](#Face-masks)
+- [Acne](#Acne)
+- [Acne triggers](#Acne-triggers)
+- [Fungal acne](#Fungal-acne)
+- [Severe skin issues](#Severe-skin-issues)
+- [Scars](#Scars)
+- [Wrinkles](#Wrinkles)
+- [Minor skin issues](#Minor-skin-issues)
+- [Eye care](#Eye-care)
+- [Lip care](#Lip-care)
+- [Body care](#Body-care)
+- [Hair removal](#Hair-removal)
+- [Diet](#Diet)
+- [Exercise](#Exercise)
+- [Final thoughts](#Final-thoughts)
 
 
-## Introduction
+# Introduction
 This guide should give a general idea of importance of skincare and many considerations you should take into account. The main goal of skincare is to improve the appearance of your skin and skin health in general, but the journey to this goal is always tricky and usually requires a "trial and error" approach. 
 
 **Should you do skincare?**
@@ -44,7 +44,7 @@ This guide should give a general idea of importance of skincare and many conside
 **I don't need skincare!**
 - OK, I will wait here, see you soon.
 
-## Skin type
+# Skin type
 Before you start developing your own skincare routine, you should figure out your skin type. There are 4 widely used skin types:
 - Dry skin
 - Normal skin
@@ -68,7 +68,7 @@ To determine your own skin type, you can find many tests that determines your sk
 
 Note: For some it might be hard to determine the skin type using the test above, search for different type of test in case there is doubt. You can visit a dermatologist to take this test for you with great accuracy.
 
-## Cause of skin type
+# Cause of skin type
 Your skin has a self-defense mechanism to protect itself from harsh environments. This is done by producing sebum on top of your skin, which is an oily/waxy matter that creates a protective layer for your skin. There are multiple functions of sebum, but for sake of simplicity we will only cover two of them: to protect your skin from bacteria; to prevent your skin from drying out.
 Your skin requires moisture to function properly. When skin has enough moisture, it can produce enough sebum, it looks plump, it looks radiant. Harsh environment as low humidity, strong wind, low temperatures, direct sun and many other factors can change the amount of moisture in your skin.
 
@@ -81,7 +81,7 @@ The skin type can change over time, this is very common in teen years where skin
 IMPORTANT: Skin type is not a disease, it is something you need to be aware of when selecting skincare products!
 
 
-## Skin requirements
+# Skin requirements
 There can be many different requirements for your skin that might be independent from your skin type,  below you can find only a few requirements that are most common:
 - non-comedogenic
 - sensitive
@@ -108,7 +108,7 @@ Note: A zero on comedogenic scale does not mean that an ingredient will not clog
 
 **none:** Some people can just put basically anything on there skin and they are just fine. They do not realize how lucky are they.
 
-## Acid mantle
+# Acid mantle
 The acid mantle (sometimes called the skin barrier) is your sebum, this is your protective layer on top of your skin. One function of your acid mantle is to lock in moisture in your skin, but another function is to protect your skin from bacteria and other chemicals. This defense mechanism works by dissolving chemicals by coming in contact with your acid mantle. From chemistry lessons you might be familiar that a solution might be neutral, acidic or basic. Your skin is supposed to be slightly acidic, many scientists agree that your skin should have pH level somewhere around 5.5, but many soap is basic (pH > 7), also water is neutral (pH = 7). By using water and soap you are changing your skin's pH level.
 
 If you start using too much soap on your skin,  you can destroy your acid mantle and it can take months for your acid mantle to stabilize. When your acid mantle is damaged, your skin is prone to acne and also becomes much more sensitive and irritated. For this reason it is important to use proper products on your skin, this is especially true for face and body washes. In general, it is highly recommended to use soap-free products, especially for face washes.
@@ -120,7 +120,7 @@ Some products might have a specific pH value stated, while your skin's pH level 
 
 Some people have a very fragile acid mantle and therefore require special products. There are products that are designed to strengthen the acid mantle and there are products designed to preserve your acid mantle. To create as least damage as possible you should look for a product that contains ingredients that improve your acid mantle and also is adapted to human's skin pH level, or mix products in your skincare routine to do both separately.
 
-## Skincare routine
+# Skincare routine
 There are many routines available, each step has a purpose and uses specific types of products. Here is a very basic skincare routine that is an essential for everyone:
 - Wash your face
 - Exfoliate when needed (more details later)
@@ -162,7 +162,7 @@ Note: Splashing your face with water without something to lock in the water can 
 
 There is also a special note about people who workout, especially for high intensity workouts. As you start to sweat, your pores enlarge and you become more prone to acne since dirt can clog pores more easily. To avoid this as much as possible, it is highly recommended to develop a very simple pre-workout and post-workout routine. The routine should be very simple, similar to a midday routine, but it is recommended to use a light moisturizer lotion instead of a heavy cream and a special sweat resistant sunscreen is required for your pre-workout routine (in case working outdoors). 
 
-## Skincare product ingredients
+# Skincare product ingredients
 There are too many possible ingredients to cover them all, but here we are going to list some very common ingredients, why are some of them bad, why some may be good and so on. At the end of this chapter there is a tip how to quickly check how good a product is by its ingredients.
 
 **Alcohol:** Alcohol has anti-bacterial properties, it is also used as preservative to make sure ingredients in a product do not degrade, but many alcohols have a very bad side effect - they strip your acid mantle, irritate your skin and make your skin dry. Not all alcohols are bad in skincare products, but many of them should be avoided, for example, denatured alcohol or isopropyl alcohol. Some alcohols are actually beneficial for your skin, for example, fatty alcohols. A very common alcohol is phenoxyethanol, which is considered somewhat safe and is widely used as preservative. 
@@ -239,13 +239,13 @@ Note: Most skincare products are not specifically designed for men or women, som
 
 *TIP:* It is very hard to keep up with the newest trends and studies, therefore it is highly suggested to read products review online and check the product against an online skincare analyzer. There are multiple websites available for checking the ingredients list for a product to make sure a product is suitable for you and how does a product back up their claims for certain properties.
 
-## Patch testing
+# Patch testing
 In most cases it is next to impossible to predict if a product will negatively react to your skin. For this reason it is important to do a patch test to make sure you do not get an allergic reaction. This is on a separate chapter since it is important and can save a lot of headaches and other issues.
 A basic patch test is to take a small amount of product and rubbing on a spot on the area where you are intending to use it. For example, if you get a face cream, you might want to put a small amount of the cream under your ear area. In case you get a bad reaction, the damage will not be large and you can avoid the product before it has caused any major issues.
 
 It might sound like an obvious thing to do, but most people do not do this and as a result get skin full of acne, irritated skin, allergic reaction, burning sensation and so on. Each time you get a new product, you should perform a patch test. Luckily many cosmetics stores allow you to test a product before you buy it, this is very useful since you can learn if a product is not suitable for you even before you spend money on it.
 
-## Skincare budget
+# Skincare budget
 Skincare can get very expensive if you start just randomly using products and do not take your time to understand what exactly your skin needs. After this guide you should have a general idea how to test out multiple products and find one that suits you best, but during this period there can unpredicted expenses. A general rule is always to keep your skincare routine as simple as possible, therefore it should be quite inexpensive as well, but here we will discuss why some products are more expensive and what to do when you are on tight budget.
 
 **Ingredients:** In theory the main influencer of a product's price should be its ingredients since it might be very difficult to obtain some of the ingredients, it might have high logistics cost and so on. There are some very rare that can significantly increase the product's price.
@@ -277,7 +277,7 @@ Below you can find some guidelines to design your skincare budget:
 **I want the most bang for the buck**
 - In general, the best option is to see a dermatologist, they can also be found online, the dermatologist should determine your skin type and should also notice any underlying skin issues. This information might be priceless for some, but note that dermatologist might not detect an issue right away and you still might need to switch multiple routines to understand how your skin reacts to different products, though under a dermatologist's supervision, it should be much more effective to determine any issues that you may have. A dermatologist might recommend to use a product that the dermatologist itself is somehow related to from a business perspective, it might not be such a bad thing as it might sound, but should be something to consider. With your knowledge about your skin you should be able to find proper products by doing a lot of searching online, there are some brands that are extremely cheap and simple and you should keep an eye on drugstore brands selling moisturizers and sunscreens online, they are usually a good deal. In general, it is cheaper to get a serum for your skin need and a general purpose moisturizer rather than getting a specific moisturizer.
 
-## Face cleansers
+# Face cleansers
 There are multiple ways to cleanse your face, but each method might not be suitable for all skin types and might not meet the requirements for all skins. Some methods are better to be used at certain times of a day than others.
 
 **Water:** A surprisingly amount of people report that gently washing their face with just plain lukewarm water replaces their whole face cleanser lineup, this is most likely to be suitable for normal skin type, but might be too drying for dry skin type and not sufficient for combination or oily skin type.
@@ -305,7 +305,7 @@ You should use a cleanser for at least a month to be sure whether a product has 
 
 Note: Water temperature can play a role in the effectiveness of washing your skin. Hot water is more capable of removing dirt, oil and bacteria from your skin, but it can be irritating and make your skin too dry. Cold water is less likely to make your skin too dry, but it is also less likely to remove dirt and bacteria. 
 
-## Toners
+# Toners
 Toners are used as an addition to your cleansing process after you have washed your face, but it can also be used as addition to your moisturizing process or to give an additional improvements to your skin's complexion. It is also used to balance your skin's pH level that can improve the tolerance to harsh environments. Many think that toners are optional and can be replaced by other products in order to make your skincare routine simpler. Below you can find some possible types of toners that you can use for each skin type (but there are a lot more for each skin need).
 
 **Oily skin:** Might require a toner with salicylic acid or a toner with sebum regulating properties.
@@ -322,7 +322,7 @@ Note: Many toners have very harsh alcohols in it. When using toners with a lot o
 
 Note: There are different kinds of toners and they have different types of usage instructions. Check the label to make sure you are using it properly. Some can be used twice a day, some can only be used once per day.
 
-## Exfoliators
+# Exfoliators
 Exfoliation is very important and it becomes much more important as we age. Young people might not need any skin exfoliation because their current skin turnover rate is sufficient and skin is hydrated enough for dead skin cells to just come off by themselves, but this changes with age. Without proper skin cell turnover our skin becomes dull, tired looking, with fine lines, wrinkles and possibly with acne. We can divide exfoliators in three major categories:
 
 **Chemical exfoliators:** These types of exfoliators use chemicals (such as AHAs or BHAs, or combination of both) to dissolve dead skin cells. They can cause skin irritation, but active ingredients can be in low concentrations to make an exfoliator more suitable for sensitive skin. Most popular chemical exfoliators are salicylic acid, glycolic acid and lactic acid.
@@ -346,7 +346,7 @@ Some people adapt a routine that involves a face sauna. This is a device that bl
 
 Note: Some chemical exfoliators are only efficient when they have a certain pH level range, but some products that have an exfoliating property might irritate your skin. Acids are measured using the acid dissociation constant (pKA) and skin irritation can happen rapidly when pKa is lower than 4. To determine a chemical peel strength you should know the pH level and the pKa level of the product. If pH and pKa matches, then this means that 50% of acid is in active form and 50% of acid is available in basic form. For safety reasons cosmetic saloons that use chemical peels have regulations on the pH level of their chemical peel they can use on people, they can use pH adjusters to lower or increase the pH level, they can also use pH buffers to achieve similar results, but changing the pH level impacts the strength of the chemical peel. For example, salicylic acid needs pH less than 2, vitamin C less than 3, TCA less than -1, glycolic acid less than 2 in order for the acid to have 100% free acid value (most effective). Sadly most products will not specify their pH level and therefore to determine the strength of a chemical peel would require measuring the pH level using various methods and special equipment.
 
-## Serums
+# Serums
 Serums are usually highly concentrated ingredients that are designed to target a skin issue in the most effective way. There is a huge amount of possible serums out there, but most of them are used before you put on your moisturizer. Below you can find some popular serum options.
 
 **Hyaluronic acid:** Usually adds a much more efficient hydration for your skin.
@@ -365,7 +365,7 @@ Serums are usually highly concentrated ingredients that are designed to target a
 
 Note: There is no exact instructions on how to use a serum, but in general you should have a damp skin (you can pat a little amount of water to make it damp, but not wet), apply your serum, wait a bit (usually up to 30 seconds until the serum is absorbed) and then apply your moisturizer. Some serums have specific instructions and they might not need a moisturizer, but they are usually categorized as face masks. Serum might have instructions to use only once per day, maybe even once per week, you should follow such instructions.
 
-## Moisturizers
+# Moisturizers
 Arguably the biggest difference in your skin complexion can be made by a good moisturizer, but it comes it different shapes, forms and textures. A moisturizer can have have ingredients and they all can serve a different purpose, below are 3 very common types of ingredients that are found in a moisturizer.
 
 **Humectant:** These ingredients attract moisture from all directions. It is important to understand that humectants do not draw moisture just from air, but also from your skin. By drawing moisture from your skin, the moisture can sit on the top layer of your skin and make it hydrated, but this moisture can easily evaporate. Humectants usually encourage your skin's cell turnover, this means they can help your skin to look fresh. Some common humectants are glycerin, hyaluronic acid, allantoin, aloe vera.
@@ -390,7 +390,7 @@ Many people are using multiple moisturizers in their skincare routine, one for m
 Note: During workout exercises your skin enlarges your pores to draw more moisture from the air. This process can result in clogged pores since dirt can get trapped into your pores. To minimize the risk, you should clean your face before working out and adding a lightweight moisturizer. By using a moisturizer before working out you can minimize the irritation of your skin during workouts.
 TIP: Most products are more effective when you massage them into your skin. You should massage your skincare products in a circular motion going upwards (avoid pulling your skin downwards). By doing this you minimize the risk of making your skin saggy over time.
 
-## Oils
+# Oils
 Oils are used in so many skincare products and they are so many and they have so many different properties that they deserve their own section. Oils can benefit almost everyone and for this reason many lotions, creams, cleansers, toners, masks and other skincare products add oils to them. Most oils can be used as an additional step in your moisturizing routine as an occlusive, but some people like to use some oils as serums. Below you can find some of the most common oils.
 
 **Coconut oil:** Thick oil, very comedogenic, has a lot of vitamin E, contains fatty acids, is antibacterial, is anti fungal. Should not be used for oily and acne-prone skin. Has gained a lot of bad reputation because of high contents of lauric acid.
@@ -416,7 +416,7 @@ Oils that are high with oleic acids tend to be more comedogenic and might not be
 
 There are oils that have significant higher levels of linoleic acid and usually the ratio between linoleic and oleic acid is used to determine if an oil might be suitable for a certain skin type. Some oils that have a high linoleic/oleic acid ratio (much more linoleic acid) are rosehip oil, safflower oil, grapeseed oil, hemp seed oil and others. 
 
-## Sunscreens
+# Sunscreens
 Sunscreens protect your skin from the sun. The rays that reach Earth are quite damaging for your skin, for this reason you should put a sunscreen to every body part that can be exposed to direct sunlight. You should be wearing sunscreen all around the year, even winter and even on cloudy days. Some people take it to the extremes and wear sunscreen even if day stay indoors, but have a window that has sun shining through. Blow you can find information about two sunscreen types.
 
 Mineral sunscreen: Creates a physical layer of protection from UVA/UVB rays on top of your skin, usually you don't have to wait for them to be effective. They usually create very noticeable white cast, which might be a major issue for darker skin color. Usually made from zinc dioxide and/or titanium dioxide.
@@ -441,7 +441,7 @@ Some products come with SPF rating, for example, moisturizers, serums, concealer
 
 Note: Tanning is bad for your skin, the darkening effect you get on your skin is a defensive reaction to protect your skin from UVA/UVB rays. While staying in the sun has benefits for your vitamin D levels, it can cause your premature aging for your skin, skin drying out and even skin caner. You might get a tanned skin effect with your diet and using skin bronzers.
 
-## Face masks
+# Face masks
 Many people find face masks as an extra special step to their skincare routine, but they are not essential. They can bring a very noticeable effect, though the same effect might be achievable using moisturizers, exfoliators and serums. There should be a mask that targets your specific skin concern, for example, a hydrating mask, healing mask, soothing mask and so on. Based on their ingredients you should be able to figure out how exactly the mask can help with your skin complexion, the main different from serums is (sometimes) face masks have even higher doses of specific ingredients.
 
 Note: Usually masks are meant to used only up to 2 times per week since they usually are very potent, but there are also daily masks that can be used every day, though these masks are usually meant to used only once per day. Always check the instructions for your product to make sure you are not overusing the product.
@@ -464,7 +464,7 @@ Gel masks: Can have the same effects as cream masks, but are usually lightweight
 
 Note: Face masks can be comedogenic as any other skincare product, they can also contain irritating ingredients and can cause allergic reaction. Always make sure the product is suitable for your skin type.
 
-## Acne
+# Acne
 This is going to be your biggest enemy throughout your life, you most probably have encountered it already and already know how annoying it is. There are some bad news - you will have acne, but you can minimize their effects and reduce the amount of acne. The truth is that everyone gets acne from time to time and the way to fight acne is treat it properly.
 
 Before you read any further, here is a major tip: Do NOT squeeze, touch, pop, puncture, suck, push, pull, hit or any other forms of physical contact, leave it alone. By touching it, you are making it worse. Depending on the acne type you should treat it with proper care.
@@ -486,7 +486,7 @@ Note: None of methods you will find that you can do yourself to treat acne is go
 
 *TIP:* Acne is going to surprise you at some point, try to always keep acne spot treatment options around you so you can treat it properly as soon as possible and reduce the temptation to squeeze acne. Most simple forms of acne spot treatments will include salicylic acid with panthenol, but many other products may exist.
 
-## Acne triggers
+# Acne triggers
 Preventing acne is a life style that you may need to develop around your current life. There are some many possible acne factors that preventing acne fully is impossible, below you can find some things that can trigger acne, though they are not definite.
 Skincare products: In so many cases acne is caused by a product you are using topically. Finding the cause might take some times, you should read the ingredients list, find possible candidates and remove them from your skincare routine one-by-one.
 
@@ -536,10 +536,10 @@ Your partner: Your skin might have adapted to your hygiene routine, but whenever
 
 **No good reason at all:** Yes, it just happens. The best thing you can do is to prepare for it.
 
-## Fungal acne
+# Fungal acne
 If you have it, just delete your skin.
 
-## Severe skin issues
+# Severe skin issues
 This guide will not cover treatment options for most severe cases since it requires a specialist and requires very specific products, that may need a prescription. To prevent anybody from mistreating a serious issue, this guide will not mention treatments for them and should avoid any advice found on the Internet about them. If you recognize some of these skin issues, you should visit a dermatologist, it might be a very mild case and treatment is simple, but such cases should be treated as soon as possible.
 
 **Eczema:** Very itchy skin, very scaly and dry skin, a lot of redness. 
@@ -552,7 +552,7 @@ This guide will not cover treatment options for most severe cases since it requi
 
 Note: As you can see, many of these skin conditions have similar symptoms, for this reason it is needed to visit a specialist that can properly recognize them.
 
-## Scars
+# Scars
 Scars can really bother some people due their visibility. While scars are permanent, there are treatment options that exist and some even can be done from your home. Scars can be caused by acne, a wound, a surgery or other factors. Treatment options exist, some scars fade away on their own, some might need some special care, some might need surgery. Below you can find some things to try to reduce appearance of scars.
 
 **Moisturizer:** As simple as it sounds, a good moisturizer will hydrate your skin. Hydrated skin is able to heal itself properly and can even prevent minor scars in long-term. You should be using a moisturizer all over your body, not just your face.
@@ -589,7 +589,7 @@ TIP: If you decide to do derma-rolling, micro-needling or microdermabrasion your
 
 Note: Many of us suffer from acne scars that were caused from our teen years, these scars can be small, but can be very deep. All products (including BHAs and microneedling) you can use without prescription work only to some extent, in general these procedures will only remove shallow scars and it is assumed that these procedures will only regenerate a very small layer of skin every month, this means to see some results using over-the-counter products it may take years. A much better option is to see a dermatologist, there are much more potent solutions to get rid of scars, but you require prescription. Do NOT try to find prescription drugs online without a prescription, these drugs usually are knockoffs and have undesirable side effects.
 
-## Wrinkles
+# Wrinkles
 As you age, you will start to notice more and more wrinkles on your skin. You might develop them sooner than others, it might be related to genetics or it might be related to your skincare routine. As we age our skin becomes drier, less elastic, thinner and damaged, these factors can cause wrinkles to appear sooner, but there some things you can do.
 
 **Moisturize:** You must keep your skin properly moisturized all day long to effectively prevent wrinkles. Find the best possible moisturizer that works for your skin. Make sure you are not over-washing or over-exfoliating your face, you need your skin's sebum to protect you from loss of moisture throughout the day.
@@ -621,7 +621,7 @@ Micro-needling: Using derma-rollers or derma-pens creates tiny wounds on your sk
 
 Note: While healing acne might take up two few weeks or just days, reducing signs of wrinkles can take years. For this reason it is highly recommended to develop a good skincare routine at a younger age so wrinkles have less chance to appear.
 
-## Minor skin issues
+# Minor skin issues
 There are some skin issues that are not serious, but can still be quite annoying. Below you can find some common skin concerns and tips on how to deal with them.
 
 **Keratosis pilaris:** Also called chicken skin. It is a harmless skin issue that usually creates dry, rough, bumpy patches on your skin, very common for women around buttocks, thighs, upper arms and cheeks. Resembles red goosebumps on your skin. It is caused by hair protein (kerotin) buildup around hair follicles. There seem to be no cure for it, but you can make it less apparent by proper exfoliation and moisturizing. You can somewhat prevent keratosis pilaris by preforming (semi)permanent hair removal, this can help since IPL and electrolysis destroy the hair follicles.
@@ -636,7 +636,7 @@ There are some skin issues that are not serious, but can still be quite annoying
 
 **Enlarged pores:** This is a common issue for oily skin, but sadly a permanent fix does not exist. Pores get enlarged whenever your skin feels it needs more moisture so it enlarges its pores to gather more moisture from the environment, but sadly this effect can cause you clogged pores. While there is no permanent fix for this skin issue, you can minimize the frequency of enlarged pores by properly exfoliating and moisturizing.
 
-## Eye care
+# Eye care
 Eyes are probably the most sensitive area on your face. While most principles still apply to your eye area, there are some things to take into consideration. The main difference is that you are not supposed to wash your eye area with face washes, you should not be putting on face masks or serums on them, you should not be putting your face cream on your eye area. You should only use skincare products that are specifically designed for eye area.
 
 Note: There are mixed opinions whether one should be using eye creams at all, or not. Many eye creams will have very bold claims, you should at least make sure that some of those claims can be backed up. Most ingredients you will find in face creams will have similar effects on your eye area. Since eye creams are more expensive, many opt even skipping eye cream usage, though some people might benefit of using eye creams.
@@ -659,7 +659,7 @@ Eye area needs sun protection: Many sunscreens are far from suitable for using o
 
 *TIP:* Eye creams are special since they are formulated for very sensitive skin. You can use your face moisturizer as an eye cream, but you need to make sure it is designed for very sensitive skin and does not sting your eyes. Sadly most moisturizers are not suitable for the eye area.
 
-## Lip care
+# Lip care
 Lips are generally quite simple to care for, similarly to other skin around your body it needs moisture, many people use lip balms to fix this issue, but there seem to be some pitfalls when using lip balms. Below you can find a list of ingredients that have some evidence of making your lips even drier.
 - Vitamin E oil (can cause skin irritation for some people)
 - Castor oil (can be allergic)
@@ -679,7 +679,7 @@ Note: Many lipsticks contain ingredients that may be drying out your lips. Findi
 
 Getting plump naturally red lips might not be possible for most, but many people like to rub beetroot juice into their lips to make them appear more red. This is a temporary color that will fade in a day or less, but frequent reapplying might give you red lips without a lipstick.
 
-## Body care
+# Body care
 Body skin is also prone to many possible skin issues that a face might have, for this reason you should take proper care. While most principles from facial care applies to body care as well, there still are some specific things you should be aware when developing a body skincare routine.
 
 **Skin type:** It is normal to have an oily face skin, but a dry body skin. Make sure you chose products for your skin type and make sure you properly determine your skin type for that body area.
@@ -720,7 +720,7 @@ Note: In more severe cases your heel skin might start to crack due to extreme dr
 
 **Body bronzers:** Sun is not very safe for your skin, but if you still want to have tanned skin, you can look for body skin bronzers. They are considered to be safe if used properly. 
 
-## Hair removal
+# Hair removal
 Many people like to have smooth and hairless skin, but this is quite hard to achieve. While it may seem quite straight forward to remove body hair using various methods, there are some major pitfalls in each hair removal method.
 
 Many people do not bother much with hair removal and chose to trim their body hair. This is probably the safest way to remove hair, it has basically no risks (cutting your skin in some areas might be a risk though), it does not itch as some other popular methods and less likely to develop irritation. This is also the recommended way to remove hair in your intimate area. In terms of skincare, trimming hair is the way how your skin wants hair removal to be.
@@ -754,7 +754,7 @@ There are other options when it comes to hair removal, for example, laser hair r
 
 IPL is becoming very popular since it can be preformed at home, note that it works only for a very limited set of hair color and skin color, it is not capable of removing white hairs. IPL is NOT permanent, it can take up to an year for your hair to grow back. Only permanent hair removal method (and it does not have a perfect success rate either) is electrolysis, but this is a very painful and dangerous method, it involves place a needle inside your skin's hair follicle and electrocuting it, which is painful and takes a lot of time since you need to target each individual hair. Some stores sell some kind of devices that market themselves as electrolysis procedure at home, but most of them simply do not work at all. Devices that do work are very hard to operate (imaging placing a needle in a very small hole and you get a scar if you miss) and cost even thousands of dollars. IPL is a lot safer, but a lot less effective, though IPL devices in a professional's office are much more powerful and you can get much better results than you can using generic IPL device.
 
-## Diet
+# Diet
 In some cases diet can be the one to blame for your skin concerns. Skin is a complex organ that requires vast amounts and vast variety of vitamins and minerals to sustain itself. Below you can find common vitamins that are crucial to healthy skin:
 
 **Vitamin E:** When taken orally through supplements or diet it is delivered to your skin using your skin's sebum. Will act as a strong anti-oxidant and can help even out your skin tone.
@@ -831,7 +831,7 @@ Note: While Omega-6 is an essential nutrient, the ratio between Omega-3 and Omeg
 
 **IMPORTANT:** To many it may seem a good idea to practice keto diet (low carb, high protein) since they are sensitive to blood sugar levels, but unless you are diabetic and are under a doctor's supervision, you should not practice keto diet as it is very dangerous, can cause major health issues and even be lethal. Keto diet is a bad diet to be used for weight loss, it only works for short-term and many people to more damage to their bodies than by eating unhealthy, such diet should only be preformed by diabetic people or when your doctor has specifically said so.
 
-## Exercise
+# Exercise
 By exercising, you are improving your health in general, this also can impact your skin's health in a good way. By promoting healthy blood circulation, you are increasing the oxygen flow and flow for other chemicals that are crucial for your skin's health. This guide will not cover the benefits of exercise, how important it is and how to develop a proper exercise routine since it is way out of the scope of this guide, but there is one aspect that needs to be taken into account for some skin conditions.
 
 If you have an oil and/or acne-prone skin, then exercising might trigger acne. In many cases this is due your pores that can become enlarged during exercise, this increases the risk of dirt or oil clogging your pores. To minimize the risk, you should clean your face (and other body parts, such as chest, shoulders, back) and apply a light moisturizer. You should be using a mild face cleaner, for example, micellar water. Other skin types also might require an extra care if you notice acne after workout or notice irritated, dry or other skin concern.
@@ -840,7 +840,7 @@ You should be wearing sunscreen during workout, especially if you are exercising
 
 After your workout, you must clean your face, apply moisturizer and apply sunscreen. While a pre-workout routine should have a lighter moisturizer and sunscreen, you should use your regular moisturizer and sunscreen in your after-workout routine. Use also a very mild face cleaner to prevent over-washing your face.
 
-## Final thoughts
+# Final thoughts
 Skin care is complex, you are not supposed to know everything and do not expect others to know everything, not even this guide, always do your own research to confirm facts, use as many scientific resources as possible.
 
 Do not jump into the first thing someone says online, every skin is different and while it might work well for a random person on the Internet, it might not work for you at all and can cause major issues. Always try to understand the reason why something might work for you.
