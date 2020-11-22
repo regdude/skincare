@@ -539,7 +539,56 @@ Your partner: Your skin might have adapted to your hygiene routine, but whenever
 **No good reason at all:** Yes, it just happens. The best thing you can do is to prepare for it.
 
 # Fungal acne
-If you have it, just delete your skin.
+There is one type of acne that deserves special attention, reason being that it is hard to diagnose and can cause a lot of frustration since it may seem that "everything causes acne" and "nothing works". Fungal acne is different from other types of acne since it is an infection with fungai around the hair follicles and there are many strains of fungai that can be found on skin. Below you can find some of symptoms of fungal acne:
+- Small clusters of whiteheads
+- Most commonly bumps on face, shoulders, chest and back
+- Itching
+
+As you can see, the symptoms are not very descriptive, this is the main reason most people do not recognize it and yet it might look like different acne types. For this reason it is highly recommended to see a dermatologist, they can easily identify fungal acne using a microscope, but no clear diagnose method can be used at home.
+
+In perfect conditions you are supposed to have a balance of bacteria and fungai on your skin that protects your skin, but in some cases this balance can be disrupted and you can end up with fungal acne. There are many conditions and reasons that can inhibit the growth of fungal acne and treating it yourself requires extensive knowledge of skincare products, their ingredients, their effects and how the react with each other, this guide will not cover all possible combinations, but this guide will give you useful tips and guidelines how to approach treating fungal acne, though extended individual research is still recommended. Below you can find some conditions that can trigger fungal acne's growth.
+
+**Oils:** Almost all oils will trigger fungal acne. Yes, this means that almost all skincare products will trigger fungal acne since most products contain oils. Avoid oils at all cost, fungal acne is able to feed itself when oils are present. There are currently only 3 known oils that are safe - caprylic acid oil, capric acid oil, squalane oil, though you must be careful not to use even these oils with products that contain amino acids and vitamins. Mineral oil can sometimes be used, some strains of fungal acne cannot feed on this oil.
+
+**Ceramides:** Some ceramides directly inhibit the growth of fungal acne and some of them accelerate the growth in presence of oils, only 1 type of ceramide is safe for fungal acne, but it is not very likely to find a product with just one type of ceramide.
+
+**Amino acids and vitamins:** Arginine, Vitamin B1, Vitamin B6, allantoin and many other ingredients can accelerate the growth of fungal acne, but they also allow fungal acne to use safe oils for their feeding process. Remember that your skin's sebum already contains some oils. 
+
+**Warm climate:** Fungal acne is able to grow in warm climates (>32C) and some ingredients can help the growth in humid climate (Lactic acid is one of them). It is less likely for fungal acne to grow in cold environments.
+
+**pH level:** If your skin's pH level is disrupted (>pH5.5), then it it is possible for fungal acne to grow.
+
+**Many more:** The list if extremely long and you will not be able to remember all of possible ingredients that trigger fungal acne. You should always use ingredients checker to examine if they have fungal acne triggers.
+
+To cure fungal acne you need to have a very well developed skincare routine, with proper hydration, with proper exfoliation, with very well picked products, below you can find some ingredients that can actually kill fungal acne to some extent.
+
+**MCT oil:** Caprylic acid oil is a type of MCT oil, it is are safe for fungal acne (unless you add amino acids or vitamins), but it has anti-fungal properties, this oil should be used to cure fungal acne. There is a second MCT oil called "capric acid oil", it can be used as well, but it does not seem to have the same anti-fungal properties. Make sure you buy 100% pure oil, these oils are made from coconut oil and it can contain lauric acid, which is unsafe for fungal acne, only use the purest MCT oil possible.
+
+**Salicylic acid:** This BHA is quite harsh on the skin for some people, but it is also capable of killing fungai by removing dead skin cells, that can feed fungal acne.
+
+**Green tea extract:** Some research suggest that products with green tea extract can help killing fungal acne.
+
+**Sulphur:** Research shows that it can cure a wide range of skin issues, including fungal acne. It has a very unpleasant side effect of smell.
+
+**Anti dandruff shampoo:** The same fungai, that is causing you dandruff, might be causing acne on your face and body. These shampoos contain ingredients that specifically target fungai, one example is zinc pyrithione, but there are other compounds too. You can use such shampoo on your face but note that most these shampoos will contain other ingredients that are not safe for fungal acne. These shampoos are very drying on the skin. You can find guides online how to use these shampoos for fungal acne, make sure you moisturize properly afterwards.
+
+One of the largest issues with fungal acne is that none of the moisturizers seem to be hydrating enough. This can be a major issue since you can develop a lot of dead skin cells without proper moisturizing, which again will result in growth of fungal acne. You should pay special attention that your moisturizer does contain humectants like glycerin, hyaluronic acid, PCA, aloe vera, you can also look for silicones that work as an emollient and top off your moisturizer with caprylic acid oil.
+
+You will have a very hard time finding fungal acne safe products, almost all products contain at least one fungal acne trigger, but there are some very rare products that are safe. Some people have done a very good job and compiled a list of fungal acne safe products, but note that these lists may contain some unsafe products too, you should always recheck the ingredients yourself. Make sure you recheck the ingredients on the products too since many companies like to change the ingredients without changing the product name or packaging.
+
+Finding a suitable product will mean that EVERY product must be examined (cleanser, toner, moisturizer, shampoo, body wash, sunscreen, EVERYTHING), but remembering each ingredient is going to be impossible. For this reason you should use "fungal acne ingredients checker" to make sure there are no fungal acne triggers and pay a special attention to ingredients that accelerate the growth of fungal acne since those ingredients can cause issues when mixed with other products.
+
+Gut bacteria can play a role not just with acne, but skin hydration and other skin concerns. Consider adding fermented products to your diet or take probiotics as supplements. When looking for suitable supplements, look for specific bacteria strains, below you can find some strains and their use case.
+
+**Acne:** Bacillus coagulan, Bifidobacterium bifidum, Bifidobacterium lactis, Enterococcus fecalis, Lactobacillus acidophilus, Lactobacillus bulgaricus, Lactobacillus casei, Lactobacillus paracasei, Lactobacillus plantarum, Streptococcus salivarius
+
+**Hydration and sensitivity:** Bifidobacterium longum, Lactobacillus casei, Lactobacillus fermentum, Lactobacillus paracasei, Streptococcus thermophilus
+
+**Anti-aging:** Bifidobacterium breve, Lactobacillus johnsonii, Lactobacillus plantarum, Lactobacillus rhamnosus
+
+**Radiant skin:** Lactobacillus acidophilus, Saccharomyces cerevisiae
+
+Note: Fungal acne is very hard to kill, don't try to find a single product that will cure you from fungal acne, it is a multi-step process that requires changes to your skincare routine and diet.
 
 # Severe skin issues
 This guide will not cover treatment options for most severe cases since it requires a specialist and requires very specific products, that may need a prescription. To prevent anybody from mistreating a serious issue, this guide will not mention treatments for them and should avoid any advice found on the Internet about them. If you recognize some of these skin issues, you should visit a dermatologist, it might be a very mild case and treatment is simple, but such cases should be treated as soon as possible.
