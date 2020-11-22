@@ -393,6 +393,8 @@ TIP: Most products are more effective when you massage them into your skin. You 
 # Oils
 Oils are used in so many skincare products and they are so many and they have so many different properties that they deserve their own section. Oils can benefit almost everyone and for this reason many lotions, creams, cleansers, toners, masks and other skincare products add oils to them. Most oils can be used as an additional step in your moisturizing routine as an occlusive, but some people like to use some oils as serums. Below you can find some of the most common oils.
 
+Note: Many like to use a term "very hydrating oil", which is incorrect. Oils themselves are not hydrating, they work only as an occlusive and lock-in the moisture. For this reason it is important to use oils on a damp skin, otherwise you might even be making your skin more dry since your skin is not able to draw moisture from the air because it is blocked by an oil. Layering a humectant and an oil can give very noticeable results.
+
 **Coconut oil:** Thick oil, very comedogenic, has a lot of vitamin E, contains fatty acids, is antibacterial, is anti fungal. Should not be used for oily and acne-prone skin. Has gained a lot of bad reputation because of high contents of lauric acid.
 
 **Argan oil:** Light oil, non-comedogenic, contains vitamin E, fatty acids, is antibacterial, has anti-oxidants. Creates a mirror-like shine for your skin. Has sebum controlling properties. Can be used for any skin type, including oily skin.
