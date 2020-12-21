@@ -522,7 +522,7 @@ Skincare products: In so many cases acne is caused by a product you are using to
 
 **Not enough water:** Many people have reported that drinking more water reduced the frequency of acne, although there is a lack of scientific evidence for this, many people are drinking not enough water.
 
-**Bad shower water:** Some homes have a bad quality of water in their showers. If you suspect your water is contaminated, you should install a water filter.
+**Bad shower water:** Some homes have a bad quality of water in their showers. If you suspect your water is contaminated, you should install a water filter. You can find even in-line or even shower heads that come with a water filter.
 
 **Too hot/long showers:** If you shower for too long or in too hot water, your natural skin oils get stripped and you can become prone to acne and skin can become dry. You should minimize the time you are in a shower (10 minutes is too long) and consider using cold water to shower. While there are many benefits of using cold water in shower, it can reduce the efficiency of removing dirt and bacteria from skin and you might require longer showers that can also disrupt your skin. Some reports claim that people are able to shower in lukewarm showers for a very short periods of time and not even use a body wash. Too frequent showering can also strip your skin's sebum, most people don't need to shower more than once per day.
 
