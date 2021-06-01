@@ -75,10 +75,12 @@ Your skin requires moisture to function properly. When skin has enough moisture,
 - When skin is too dry, skin might start to create patches and start shedding. If skin is dry for a longer time of period, then your skin might start to develop wrinkles, especially on your forehead and eyes.
 - When skin is too oily, too much sebum has been produced, excess sebum might start clogging your pores thereby causing one type of acne, skin might look tired and always shiny.
 - When skin is normal or combination, then sebum is produced in sufficient amounts and in general does not need sebum regulation, but moisturizing is still required.
-Note: Your skin might tend to produce more sebum if it becomes dry, but this can be unrelated to dehydrated skin. Such skin issue might exist even for oily skin types and in general it means your skin lacks moisture. Cause of dehydrated skin can be complex or it might simply indicate you need to drink more water.
+
+**none:** Your skin might tend to produce more sebum if it becomes dry, but this can be unrelated to dehydrated skin. Such skin issue might exist even for oily skin types and in general it means your skin lacks moisture. Cause of dehydrated skin can be complex or it might simply indicate you need to drink more water.
 
 The skin type can change over time, this is very common in teen years where skin usually becomes oily due to hormonal changes in your body and then adapts to new hormone levels and might change your even your skin type. Sometimes skin type does not change, sometimes your diet and exercises can change your skin type, sometimes even your skincare products can change your skin type.
-IMPORTANT: Skin type is not a disease, it is something you need to be aware of when selecting skincare products!
+
+**IMPORTANT:** Skin type is not a disease, it is something you need to be aware of when selecting skincare products!
 
 
 # Skin requirements
